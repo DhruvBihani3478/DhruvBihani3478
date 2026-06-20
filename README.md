@@ -43,45 +43,56 @@
 - 🎯 Goal: Secure a Software Engineering Internship and contribute to impactful products
 
 ---
+## 🧠 Tech Stack
 
-## 🛠 Tech Stack
+### 💻 Programming Languages
 
-💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,sql,html,css,javascript" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<h3>⚙️ Tools & Platforms</h3>
+### 📊 Data Science & Machine Learning
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
-📊 Data Science Stack
+### 🌱 Currently Learning
+
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Seaborn-2E4A62?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-6A1B9A?style=for-the-badge"/>
 </p>
 
+### 🛠 Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 ---
 
-# 📊 GitHub Statistics
-
+# 📊 GitHub Stats
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruvbihani3478&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvbihani3478&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhruvbihani3478&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvbihani3478&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dhruvbihani3478&theme=github-dark&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=dhruvbihani3478&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -89,22 +100,55 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvbihani3478&theme=github-dark&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvbihani3478&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 💻 Competitive Programming
+## 🧠 DSA & Competitive Programming
 
-- 💡 Solving DSA problems consistently
-- 🧠 Strengthening algorithmic thinking
-- 🚀 Preparing for Software Engineering internships
-- ⚡ Improving problem-solving through regular coding practice
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Dhruv_Bihani?theme=dark&font=Baloo&ext=heatmap" width="700"/>
+</p>
+
+<table align="center">
+<tr>
+<th>🏆 Platform</th>
+<th>👤 Username</th>
+<th>💻 Language</th>
+<th>🔥 Problems</th>
+<th>🎯 Current Focus</th>
+</tr>
+
+<tr>
+<td>LeetCode</td>
+<td>
+<a href="https://leetcode.com/u/Dhruv_Bihani/">
+Dhruv_Bihani
+</a>
+</td>
+<td>C++</td>
+<td>500+</td>
+<td>Graphs • DP • Trees</td>
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+| 📈 Goal | 🚀 Target |
+|:-------:|:---------:|
+| Daily DSA Practice | Software Engineering Internship |
+| Strengthen Problem Solving | 500+ Problems |
+| Master Core Algorithms | Participate in Contests |
+
+</div>
 
 ---
 
+> 💡 *"Consistency over intensity. Every solved problem makes you a better engineer."*
 ## 🌱 Currently Learning
 
 ```text
