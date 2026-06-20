@@ -155,41 +155,39 @@
 ⭐ Open Source Contributions (Coming Soon)
 
 ---
-## 🤝 Connect with Me
-### 🌐 Professional
-
-<a href="https://www.linkedin.com/in/dhruv-bihani-551611327">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/dhruvbihani3478">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td align="center">
-
-### 📬 Reach Me
-
-<a href="mailto:dhruv.bihani34@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Dhruv_Bihani/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
+## 🌐 Beyond the Code
 
 <p align="center">
-<b>Open to Software Engineering, AI/ML, and Open Source opportunities.</b>
+<a href="YOUR_PORTFOLIO"><b>Portfolio</b></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dhruv-bihani-551611327/"><b>LinkedIn</b></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Dhruv_Bihani/"><b>LeetCode</b></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:dhruvbihani.34"><b>Email</b></a>
 </p>
 
-⭐ Thanks for visiting my profile! ⭐
+<p align="center">
+<i>
+Always open to meaningful conversations, collaborations,<br>
+and opportunities in software engineering, AI, and open source.
+</i>
+</p>
 
-</h3>
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<p align="center">
+<i>
+Code with curiosity.<br>
+Build with purpose.<br>
+Learn continuously.
+</i>
+</p>
+
+<p align="center">
+<sub>
+Thank you for visiting. Let's build something impactful together. 🚀
+</sub>
+</p>
