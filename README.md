@@ -1,4 +1,9 @@
-## Hi there 👋
+👋 Hi, I'm Dhruv Bihani
+💻 Aspiring Software Engineer & AI/ML Enthusiast 🇮🇳
+
+Building scalable software, solving algorithmic problems, and exploring intelligent systems.
+
+<p align="center"> <a href="YOUR_PORTFOLIO_LINK"> <img src="https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge"> </a> <a href="https://www.linkedin.com/in/dhruv-bihani-551611327/"> <img src="https://img.shields.io/badge/LinkedIn-Dhruv_Bihani-blue?style=for-the-badge&logo=linkedin"> </a> <a href="https://leetcode.com/u/Dhruv_Bihani/"> <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"> </a> <a href="mailto:dhruv.bihani34@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"> </a> </p>
 
 <!--
 **DhruvBihani3478/DhruvBihani3478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
