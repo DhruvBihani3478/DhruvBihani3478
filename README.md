@@ -144,7 +144,7 @@
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/dhruv.bihani34">
+<a href="https://github.com/dhruvbihani3478">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
