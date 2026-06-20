@@ -46,17 +46,22 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,mysql,git,github,vscode" />
-
+💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,sql,html,css,javascript" />
 </p>
 
-### Currently Exploring
+<h3>⚙️ Tools & Platforms</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
-<p align="center">
-🐍 Python • 🗄️ SQL • 📊 Pandas • 🔢 NumPy • 📈 Matplotlib • 📉 Seaborn
-
+📊 Data Science Stack
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seaborn-2E4A62?style=for-the-badge" />
 </p>
 
 ---
