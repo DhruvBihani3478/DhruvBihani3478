@@ -24,11 +24,11 @@
 </a>
 
 <a href="https://leetcode.com/u/Dhruv_Bihani/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
+<img src="https://img.shields.io/badge/LeetCode-Dhruv_Bihani-orange?style=for-the-badge&logo=leetcode">
 </a>
 
 <a href="mailto:dhruv.bihani34@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-dhruv.bihani34-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
 
@@ -104,51 +104,31 @@
 </p>
 
 ---
-
 ## 🧠 DSA & Competitive Programming
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dhruv_Bihani?theme=dark&font=Baloo&ext=heatmap" width="700"/>
-</p>
-
-<table align="center">
-<tr>
-<th>🏆 Platform</th>
-<th>👤 Username</th>
-<th>💻 Language</th>
-<th>🔥 Problems</th>
-<th>🎯 Current Focus</th>
-</tr>
-
-<tr>
-<td>LeetCode</td>
-<td>
-<a href="https://leetcode.com/u/Dhruv_Bihani/">
-Dhruv_Bihani
-</a>
-</td>
-<td>C++</td>
-<td>500+</td>
-<td>Graphs • DP • Trees</td>
-</tr>
-
-</table>
-
-<br>
 
 <div align="center">
 
-| 📈 Goal | 🚀 Target |
-|:-------:|:---------:|
-| Daily DSA Practice | Software Engineering Internship |
-| Strengthen Problem Solving | 500+ Problems |
-| Master Core Algorithms | Participate in Contests |
+<a href="https://leetcode.com/u/Dhruv_Bihani/">
+<img src="https://leetcard.jacoblin.cool/Dhruv_Bihani?theme=dark&font=Nunito&ext=heatmap" width="700"/>
+</a>
 
 </div>
 
----
+<br>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Interview%20Prep-2EA44F?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<a href="https://leetcode.com/u/Dhruv_Bihani/">
+🔗 Visit My LeetCode Profile
+</a>
+</p
 > 💡 *"Consistency over intensity. Every solved problem makes you a better engineer."*
+
 ## 🌱 Currently Learning
 
 ```text
@@ -175,36 +155,40 @@ Dhruv_Bihani
 ⭐ Open Source Contributions (Coming Soon)
 
 ---
+## 🤝 Connect with Me
+### 🌐 Professional
 
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/dhruv-bihani-551611327/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:dhruv.bihani34">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://www.linkedin.com/in/dhruv-bihani-551611327">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/dhruvbihani3478">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</td>
 
----
+<td align="center">
+
+### 📬 Reach Me
+
+<a href="mailto:dhruv.bihani34@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Dhruv_Bihani/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=dhruvbihani3478&label=Profile+Views&color=0e75b6&style=flat"/>
-
+<b>Open to Software Engineering, AI/ML, and Open Source opportunities.</b>
 </p>
-
----
-
-<h3 align="center">
 
 ⭐ Thanks for visiting my profile! ⭐
 
