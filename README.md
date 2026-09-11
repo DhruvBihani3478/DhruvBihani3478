@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Dhruv_Bihani-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://leetcode.com/u/Dhruv_Bihani/">
+<a href="https://leetcode.com/u/Dhruv_Bi/">
 <img src="https://img.shields.io/badge/LeetCode-Dhruv_Bihani-orange?style=for-the-badge&logo=leetcode">
 </a>
 
@@ -108,8 +108,8 @@
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Dhruv_Bihani/">
-<img src="https://leetcard.jacoblin.cool/Dhruv_Bihani?theme=dark&font=Nunito&ext=heatmap" width="700"/>
+<a href="https://leetcode.com/u/Dhruv_Bi/">
+<img src="https://leetcard.jacoblin.cool/Dhruv_Bi?theme=dark&font=Nunito&ext=heatmap" width="700"/>
 </a>
 
 </div>
