@@ -123,7 +123,7 @@
 </p>
 
 <p align="center">
-<a href="https://leetcode.com/u/Dhruv_Bihani/">
+<a href="https://leetcode.com">
 🔗 Visit My LeetCode Profile
 </a>
 </p
