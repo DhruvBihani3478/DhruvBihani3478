@@ -92,7 +92,7 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvbihani3478&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhruvbihani3478&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
