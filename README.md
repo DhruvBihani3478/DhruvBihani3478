@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Dhruv_Bihani-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://leetcode.com/u/Dhruv_Bi/">
+<a href="https://leetcode.com/">
 <img src="https://img.shields.io/badge/LeetCode-Dhruv_Bihani-orange?style=for-the-badge&logo=leetcode">
 </a>
 
