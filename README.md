@@ -162,7 +162,7 @@
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dhruv-bihani-551611327/"><b>LinkedIn</b></a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://leetcode.com/u/Dhruv_Bihani/"><b>LeetCode</b></a>
+<a href="https://leetcode.com/"><b>LeetCode</b></a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="mailto:dhruvbihani.34"><b>Email</b></a>
 </p>
